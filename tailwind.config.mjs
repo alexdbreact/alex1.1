@@ -10,8 +10,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+   
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('daisyui'),
+
+  ],
 };
