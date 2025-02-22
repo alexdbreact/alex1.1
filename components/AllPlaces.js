@@ -158,12 +158,12 @@ const AllPlaces = () => {
           >
             <option value=""> ** جهات التعميم</option>
          
-            <option value="auth">جميع الإدارات  </option>
-            <option value="info"> جميع الأحياء</option>
-            <option value="smart"> المديريات</option>
-            <option value="smart"> ادارات و احياء</option>
-            <option value="smart"> احياء و مديريات</option>
-            <option value="smart"> جميع الجهات</option>
+            <option value="Departments">جميع الإدارات  </option>
+            <option value="Destricts"> جميع الأحياء</option>
+            <option value="Directorate"> المديريات</option>
+            <option value="Depart&Dests"> ادارات و احياء</option>
+            <option value="Dests&Directs"> احياء و مديريات</option>
+            <option value="All"> جميع الجهات</option>
             
           </select>
         </div>
